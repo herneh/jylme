@@ -14,8 +14,7 @@ margin: 0 auto; max-width: 40em; padding: 1em;
 .kol2 {columns: 2;} .kol3 {columns: 3;}
 .wys {margin: 1em 0;} .wys p {margin: 0; padding: 0 0 0 1em; text-indent: -1em;}
 
-a:link, a:visited {color: #0369a1; text-decoration: none;} /*sky 700*/
-a:hover, a:active {color: #be123c; text-decoration: underline;} /*rose 700*/
+
 
 table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100%;}
 table, th, td {border: thin solid #cbd5e1; padding: 0.2em 0.5em;} /*slate 300*/
