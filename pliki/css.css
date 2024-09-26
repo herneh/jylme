@@ -22,6 +22,9 @@ margin: 0 auto; max-width: 40em; padding: 1em;
 a:link, a:visited {color: #0EA5E9; text-decoration: none;} /*sky 500*/
 a:hover, a:active {color: #F43F5E; text-decoration: underline;} /*rose 500*/
 
+figure {margin: 0;}
+figcaption {font-size: small; text-align: center;}
+
 table {border-collapse: collapse; margin: 1em 0; table-layout: fixed; width: 100%;}
 table, th, td {border: thin solid #cbd5e1; padding: 0.2em 0.5em;} /*slate 300*/
 th {background: #f1f5f9;} /*slate 100*/
